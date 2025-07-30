@@ -50,9 +50,6 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 ## 📸 Ekran Görüntüleri
 
 
-
-
-
 <h3>Giriş & Kayıt Sayfası</h3>
 <p>
   <img src="screenshots/giris.png" alt="Giriş" width="300" style="margin-right: 10px;">
@@ -90,42 +87,6 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 </p>
 
 
-
-### Giriş Sayfası
-![Giriş Sayfası](screenshots/giris.png)
-
-### Kayıt Ol Sayfası
-![Kayıt Ol Sayfası](Screenshots/sign-up.png)
-
-### Ana Sayfa(Türkçe)
-![Ana Sayfa](screenshots/anasayfatr.png)
-
-### Film Detayı Sayfası(Türkçe)
-![Film Detayı Sayfası](screenshots/filmdetaytr.png)
-
-### Profil Sayfası(Türkçe)
-![Profil Sayfası](screenshots/profiltr.png)
-
-### Profil Foto Ekle Sayfası(Türkçe)
-![Giriş Sayfası](screenshots/fotoekletr.png)
-
-### Teklifler Sayfası(Türkçe)
-![Teklifler Sayfası](screenshots/tekliftr.png)
-
-### Ana Sayfa(İngilizce)
-![Ana Sayfa](screenshots/anasayfaeng.png)
-
-### Film Detayı Sayfası(İngilizce)
-![Film Detayı Sayfası](screenshots/filmdetayeng.png)
-
-### Profil Sayfası(İngilizce)
-![Profil Sayfası](screenshots/profileng.png)
-
-### Profil Foto Ekle Sayfası(İngilizce)
-![Giriş Sayfası](screenshots/fotoekleeng.png)
-
-### Teklifler Sayfası(İngilizce)
-![Teklifler Sayfası](screenshots/teklifeng.png)
 
 ## ⚙️ Kurulum ve Çalıştırma
 
