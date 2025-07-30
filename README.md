@@ -67,100 +67,27 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 
 <h3>Film Detayı (TR & EN)</h3>
 <p>
-  <img src="screenshots/filmdetaytr.png" alt="TR" width="400" style="margin-right: 10px;">
-  <img src="screenshots/filmdetayeng.png" alt="EN" width="400">
+  <img src="screenshots/filmdetaytr.png" alt="TR" width="300" style="margin-right: 10px;">
+  <img src="screenshots/filmdetayeng.png" alt="EN" width="300">
 </p>
 
-<h3>Giriş & Kayıt Sayfası</h3>
+<h3>Profil Sayfası</h3>
 <p>
-  <img src="screenshots/giris.png" alt="Giriş" width="200" style="margin-right: 10px;">
-  <img src="screenshots/sign-up.png" alt="Kayıt" width="200">
+  <img src="screenshots/profiltr.png" alt="Giriş" width="300" style="margin-right: 10px;">
+  <img src="screenshots/profileng.png" alt="Kayıt" width="300">
 </p>
 
-<h3>Ana Sayfa (TR & EN)</h3>
+<h3>Profil Foto Ekle Sayfası (TR & EN)</h3>
 <p>
-  <img src="screenshots/anasayfatr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/anasayfaeng.png" alt="EN" width="200">
+  <img src="screenshots/fotoekletr.png" alt="TR" width="300" style="margin-right: 10px;">
+  <img src="screenshots/fotoekleeng.png" alt="EN" width="300">
 </p>
 
-<h3>Film Detayı (TR & EN)</h3>
+<h3>Teklifler Sayfası(TR & EN)</h3>
 <p>
-  <img src="screenshots/filmdetaytr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/filmdetayeng.png" alt="EN" width="200">
+  <img src="screenshots/tekliftr.png" alt="TR" width="300" style="margin-right: 10px;">
+  <img src="screenshots/teklifeng.png" alt="EN" width="300">
 </p>
-
-<h3>Giriş & Kayıt Sayfası</h3>
-<p>
-  <img src="screenshots/giris.png" alt="Giriş" width="200" style="margin-right: 10px;">
-  <img src="screenshots/sign-up.png" alt="Kayıt" width="200">
-</p>
-
-<h3>Ana Sayfa (TR & EN)</h3>
-<p>
-  <img src="screenshots/anasayfatr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/anasayfaeng.png" alt="EN" width="200">
-</p>
-
-<h3>Film Detayı (TR & EN)</h3>
-<p>
-  <img src="screenshots/filmdetaytr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/filmdetayeng.png" alt="EN" width="200">
-</p>
-
-<h3>Giriş & Kayıt Sayfası</h3>
-<p>
-  <img src="screenshots/giris.png" alt="Giriş" width="200" style="margin-right: 10px;">
-  <img src="screenshots/sign-up.png" alt="Kayıt" width="200">
-</p>
-
-<h3>Ana Sayfa (TR & EN)</h3>
-<p>
-  <img src="screenshots/anasayfatr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/anasayfaeng.png" alt="EN" width="200">
-</p>
-
-<h3>Film Detayı (TR & EN)</h3>
-<p>
-  <img src="screenshots/filmdetaytr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/filmdetayeng.png" alt="EN" width="200">
-</p>
-
-<h3>Giriş & Kayıt Sayfası</h3>
-<p>
-  <img src="screenshots/giris.png" alt="Giriş" width="200" style="margin-right: 10px;">
-  <img src="screenshots/sign-up.png" alt="Kayıt" width="200">
-</p>
-
-<h3>Ana Sayfa (TR & EN)</h3>
-<p>
-  <img src="screenshots/anasayfatr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/anasayfaeng.png" alt="EN" width="200">
-</p>
-
-<h3>Film Detayı (TR & EN)</h3>
-<p>
-  <img src="screenshots/filmdetaytr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/filmdetayeng.png" alt="EN" width="200">
-</p>
-
-<h3>Giriş & Kayıt Sayfası</h3>
-<p>
-  <img src="screenshots/giris.png" alt="Giriş" width="200" style="margin-right: 10px;">
-  <img src="screenshots/sign-up.png" alt="Kayıt" width="200">
-</p>
-
-<h3>Ana Sayfa (TR & EN)</h3>
-<p>
-  <img src="screenshots/anasayfatr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/anasayfaeng.png" alt="EN" width="200">
-</p>
-
-<h3>Film Detayı (TR & EN)</h3>
-<p>
-  <img src="screenshots/filmdetaytr.png" alt="TR" width="200" style="margin-right: 10px;">
-  <img src="screenshots/filmdetayeng.png" alt="EN" width="200">
-</p>
-
 
 
 
