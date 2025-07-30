@@ -50,7 +50,7 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Sayfası
-![Giriş Sayfası](Screenshots/giris.png)
+![Giriş Sayfası](screenshots/giris.png)
 
 ### Kayıt Ol Sayfası
 ![Kayıt Ol Sayfası](Screenshots/sign-up.png)
