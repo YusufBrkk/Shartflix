@@ -49,15 +49,44 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 
 ## 📸 Ekran Görüntüleri
 
-> `screenshots/` klasörüne ekran görüntülerinizi ekleyip, aşağıya şu formatla yazabilirsiniz:
+### Giriş Sayfası
+![Giriş Sayfası](Screenshots/giris.png)
 
-screenshots/giris.png
+### Kayıt Ol Sayfası
+![Kayıt Ol Sayfası](Screenshots/sign-up.png)
 
-yaml
-Kopyala
-Düzenle
+### Admin Giriş Paneli
+![Admin Giriş Paneli](Screenshots/admin-log-in.png)![Admin Giriş Paneli](Screenshots/admin-log-in1.png)![Admin Giriş Paneli](Screenshots/admin-log-in2.png)
 
----
+### Müşteri Ana Sayfası
+![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS1.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS2.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS3.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS4.png)
+
+### Randevularım Sayfası
+![Kayıt Ol Sayfası](Screenshots/MYAPPTS.png)![Kayıt Ol Sayfası](Screenshots/MYAPPTS1.png)
+
+### Randevu Oluştur Sayfası
+![Admin Giriş Paneli](Screenshots/MAKEAPPT.png)
+
+### Çalışma Saatleri ve Tatil Sayfası
+![Giriş Sayfası](Screenshots/WORKTIMES.png)
+
+### Geçmiş Randevularım Sayfası
+![Kayıt Ol Sayfası](Screenshots/PASTAPPTS.png)
+
+### Profilimi Güncelle Sayfası
+![Profilimi Güncelle Sayfası](Screenshots/Profile-update.png)
+
+### Admin Ana Sayfası
+![Admin Ana Sayfası](Screenshots/admin.png)![Admin Ana Sayfası](Screenshots/admin1.png)![Admin Ana Sayfası](Screenshots/admin2.png)![Admin Ana Sayfası](Screenshots/admin3.png)![Admin Ana Sayfası](Screenshots/admin4.png)![Admin Ana Sayfası](Screenshots/admin5.png)
+
+### Admin Randevuları Yönet Sayfası
+![Admin Randevuları Yönet Sayfası](Screenshots/admin-appts.png)![Admin Randevuları Yönet Sayfası](Screenshots/admin-appts1.png)
+
+### Admin Müşterileri Görüntüle Sayfası
+![Admin Müşterileri Görüntüle Sayfası](Screenshots/admin-users.png)
+
+### Admin Çalışma Saatleri ve Tatil Yönet Sayfası
+![Admin Çalışma Saatleri ve Tatil Yönet Sayfası](Screenshots/admin-worktimes.png)
 
 
 ## ⚙️ Kurulum ve Çalıştırma
