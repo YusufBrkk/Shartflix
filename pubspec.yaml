@@ -1,0 +1,82 @@
+# pubspec.yaml: Flutter projesinin bağımlılıklarını, assetlerini ve yapılandırmasını tanımlar.
+# Uygulamanın adı, açıklaması, versiyonu, bağımlılıkları ve assetleri burada yer alır.
+
+## Localization ayarları ve assets flutter bölümünde olacak, üstteki tekrarlar kaldırıldı
+name: shartflix
+# Proje adı
+
+description: "A new Flutter project."
+# Proje açıklaması
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# Versiyon ve build numarası
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+# dependencies: Projenin çalışması için gerekli paketler
+# flutter: Flutter SDK'sı
+# image_picker: Galeriden/fotoğraf çekme
+# shared_preferences: Local storage
+# intl: Tarih/saat ve çeviri işlemleri
+# flutter_localizations: Çoklu dil desteği
+# flutter_bloc: Bloc state yönetimi
+# provider: Provider state yönetimi
+# firebase_core, firebase_crashlytics, firebase_analytics: Firebase servisleri
+# lottie: Animasyonlar
+# flutter_native_splash: Splash ekranı
+# cupertino_icons: iOS ikonları
+# equatable: Bloc için karşılaştırma
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.0.15
+  intl: ^0.20.2
+  flutter_localizations:
+    sdk: flutter
+  flutter_bloc: ^8.1.5
+  equatable: ^2.0.5
+  flutter_native_splash: ^2.4.0
+  lottie: ^3.3.1
+  firebase_core: ^3.15.2
+  firebase_crashlytics: ^4.3.10
+  firebase_analytics: ^11.6.0
+  provider: ^6.1.5
+
+# Splash screen ayarları (en üstte, flutter: dışında olmalı)
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/profile_placeholder.png
+  android: true
+  ios: true
+  web: false
+
+# dev_dependencies: Sadece geliştirme/test için gerekli paketler
+# flutter_test: Testler için
+# flutter_lints: Kod kalitesi için önerilen kurallar
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# flutter: Assetler, fontlar ve materyal tasarım ayarları
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/profile_placeholder.png
+    - assets/movie1.jpg
+    - assets/movie2.jpg
+    - assets/movie3.jpg
+    - assets/movie4.jpg
+    - assets/movie5.jpg
+    - assets/movie6.jpg
+    - assets/lottie/offer.json
+  generate: true
