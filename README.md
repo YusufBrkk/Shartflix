@@ -61,37 +61,37 @@ Düzenle
 
 ## 📁 Proje Yapısı
 
-shartflix/
-├── lib/
-│ ├── main.dart
-│ └── src/
-│ ├── app.dart
-│ ├── models/
-│ │ └── movie.dart
-│ ├── screens/
-│ │ ├── home_screen.dart
-│ │ ├── login_screen.dart
-│ │ ├── signup_screen.dart
-│ │ ├── movie_detail_screen.dart
-│ │ └── profile_screen.dart
-│ ├── widgets/
-│ │ ├── movie_card.dart
-│ │ ├── infinite_scroll_list.dart
-│ │ └── custom_app_bar.dart
-│ ├── services/
-│ │ ├── auth_service.dart
-│ │ └── movie_service.dart
-│ ├── providers/
-│ │ ├── auth_provider.dart
-│ │ └── movie_provider.dart
-│ └── utils/
-│ └── constants.dart
-├── assets/
-│ └── profile_placeholder.png
-├── screenshots/
-│ ├── login.png
-│ ├── home.png
-│ └── profile.png
+shartflix
+├── lib
+│   ├── main.dart
+│   ├── src
+│   │   ├── app.dart
+│   │   ├── models
+│   │   │   └── movie.dart
+│   │   ├── screens
+│   │   │   ├── home_screen.dart
+│   │   │   ├── login_screen.dart
+│   │   │   ├── signup_screen.dart
+│   │   │   ├── movie_detail_screen.dart
+│   │   │   └── profile_screen.dart
+│   │   ├── widgets
+│   │   │   ├── movie_card.dart
+│   │   │   ├── infinite_scroll_list.dart
+│   │   │   └── custom_app_bar.dart
+│   │   ├── services
+│   │   │   ├── auth_service.dart
+│   │   │   └── movie_service.dart
+│   │   ├── providers
+│   │   │   ├── auth_provider.dart
+│   │   │   └── movie_provider.dart
+│   │   └── utils
+│   │       └── constants.dart
+├── assets
+│   └── profile_placeholder.png
+├── screenshots
+│   ├── login.png
+│   ├── home.png
+│   └── profile.png
 ├── pubspec.yaml
 └── README.md
 
