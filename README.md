@@ -1,47 +1,170 @@
-# SHARTFLIX
+# Shartflix 🎬
 
-Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların film keşfetmesini, favori filmlerini yönetmesini ve profilini düzenlemesini sağlayan bir film uygulamasıdır. Uygulama, temiz mimari prensipleri, MVVM ve Bloc state management ile kod kalitesi ve sürdürülebilirlik ön planda tutularak hazırlanmıştır.
+Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların film keşfetmesini, favori filmlerini yönetmesini ve profilini düzenlemesini sağlayan bir film uygulamasıdır. Uygulama, **Clean Architecture**, **MVVM** ve **Bloc** state management prensiplerine uygun şekilde yapılandırılmıştır.
 
-Özellikler
-Kullanıcı Girişi ve Kayıt: Güvenli oturum açma ve kayıt işlemleri, token yönetimi.
-Ana Sayfa (Keşfet): Sonsuz kaydırma (infinite scroll), her sayfada 5 film, otomatik yükleme göstergesi, pull-to-refresh.
-Film Detayları: Film başlığı, açıklama, çıkış tarihi, puan gibi detaylar.
-Favori Filmler: Favorilere ekleme/çıkarma ve anlık UI güncellemesi.
-Profil Yönetimi: Kullanıcı bilgileri ve profil fotoğrafı yükleme.
-Bottom Navigation Bar: Kolay sayfa geçişleri.
-Çoklu Dil Desteği: Türkçe ve İngilizce localization.
-Custom Theme: Karanlık ve aydınlık tema desteği.
-Logger ve Navigation Service: Gelişmiş hata ve yönlendirme yönetimi.
-Animasyonlar: Lottie ile splash screen ve animasyonlu geçişler.
-Firebase Crashlytics & Analytics: Temel seviye entegrasyon (opsiyonel).
-Ekran Görüntüleri
-Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
+---
 
-<!-- Ekran görüntülerini eklemek için aşağıdaki gibi kullanabilirsin: ![Login Ekranı](screenshots/login.png) ![Ana Sayfa](screenshots/home.png) !Profil Ekran görüntülerini `screenshots/` klasörüne ekleyip, dosya adlarını buraya yazman yeterli. -->
-Proje Yapısı
-Kurulum ve Çalıştırma
-Projeyi Klonlayın:
+## 🚀 Özellikler
 
-Proje Dizini'ne Girin:
+### 👤 Kimlik Doğrulama
+- Kullanıcı girişi ve kayıt işlemleri
+- Token tabanlı oturum yönetimi
+- Başarılı girişte otomatik yönlendirme
 
-Bağımlılıkları Yükleyin:
+### 🏠 Ana Sayfa (Keşfet)
+- Sonsuz kaydırma (Infinite Scroll)
+- Her sayfada 5 film gösterimi
+- Otomatik yükleme göstergesi
+- Pull-to-refresh desteği
+- Favori butonu ile anlık UI güncellemesi
 
-Uygulamayı Çalıştırın:
+### 🎥 Film Detayları
+- Film başlığı, açıklama, çıkış tarihi, puan gibi detaylar
 
-Kullanılan Teknolojiler
+### ❤️ Favoriler
+- Favorilere ekleme / çıkarma
+- Favori listesi sayfası
+
+### 🧑 Profil Yönetimi
+- Kullanıcı bilgilerini görüntüleme
+- Profil fotoğrafı yükleme
+
+### 🔀 Navigasyon
+- Bottom Navigation Bar ile akıcı sayfa geçişleri
+- Ana sayfa state’inin korunması
+
+### 🌐 Çoklu Dil Desteği
+- Türkçe 🇹🇷 ve İngilizce 🇬🇧 localization (intl + ARB)
+
+### 🎨 Tema
+- Karanlık ve aydınlık tema desteği
+
+### 🧰 Diğer Servisler
+- Logger Service
+- Navigation Service
+- Splash Screen & Uygulama ikonu
+- Firebase Crashlytics & Analytics (isteğe bağlı)
+
+---
+
+## 📸 Ekran Görüntüleri
+
+> `screenshots/` klasörüne ekran görüntülerinizi ekleyip, aşağıya şu formatla yazabilirsiniz:
+
+
+
+yaml
+Kopyala
+Düzenle
+
+---
+
+## 📁 Proje Yapısı
+
+shartflix/
+├── lib/
+│ ├── main.dart
+│ └── src/
+│ ├── app.dart
+│ ├── models/
+│ │ └── movie.dart
+│ ├── screens/
+│ │ ├── home_screen.dart
+│ │ ├── login_screen.dart
+│ │ ├── signup_screen.dart
+│ │ ├── movie_detail_screen.dart
+│ │ └── profile_screen.dart
+│ ├── widgets/
+│ │ ├── movie_card.dart
+│ │ ├── infinite_scroll_list.dart
+│ │ └── custom_app_bar.dart
+│ ├── services/
+│ │ ├── auth_service.dart
+│ │ └── movie_service.dart
+│ ├── providers/
+│ │ ├── auth_provider.dart
+│ │ └── movie_provider.dart
+│ └── utils/
+│ └── constants.dart
+├── assets/
+│ └── profile_placeholder.png
+├── screenshots/
+│ ├── login.png
+│ ├── home.png
+│ └── profile.png
+├── pubspec.yaml
+└── README.md
+
+yaml
+Kopyala
+Düzenle
+
+---
+
+## ⚙️ Kurulum ve Çalıştırma
+
+### 1. Projeyi Klonlayın
+
+```bash
+git clone <repository-url>
+2. Proje dizinine girin
+bash
+Kopyala
+Düzenle
+cd shartflix
+3. Bağımlılıkları yükleyin
+bash
+Kopyala
+Düzenle
+flutter pub get
+4. Uygulamayı çalıştırın
+bash
+Kopyala
+Düzenle
+flutter run
+Emulator veya gerçek cihazın bağlı olduğundan emin olun.
+
+🛠 Kullanılan Teknolojiler
 Flutter & Dart
-Provider (State Management)
-Bloc (State Management)
-MVVM & Clean Architecture
-REST API
-Lottie Animations
-Firebase Crashlytics & Analytics (opsiyonel)
-Localization (intl, ARB dosyaları)
-Değerlendirme Kriterleri
-Kod kalitesi ve organizasyonu
-UI/UX tasarımına uygunluk
-Performans optimizasyonu
-Best practice kullanımı
-Bonus özelliklerin uygulanması
-Katkıda Bulunma
-Katkılarınızı bekliyoruz! Lütfen yeni özellikler veya hata düzeltmeleri için pull request gönderebilir veya issue açabilirsiniz.
+
+Bloc + MVVM Clean Architecture
+
+REST API ile veri çekme
+
+Lottie animasyonları
+
+Firebase Crashlytics & Analytics (isteğe bağlı)
+
+Localization (intl + ARB)
+
+Logger & Navigation servisleri
+
+🧪 Değerlendirme Kriterleri
+✅ Kod kalitesi ve organizasyonu
+
+✅ UI/UX tasarımına uygunluk
+
+✅ Performans ve verimlilik
+
+✅ Best Practice ve Clean Architecture kullanımı
+
+✅ Bonus özelliklerin uygulanması
+
+📬 İletişim
+Her türlü soru, öneri ve geri bildirim için bana ulaşabilirsiniz:
+
+📧 yusufbrkk12@gmail.com
+
+💼 LinkedIn Profilim
+
+🤝 Katkıda Bulun
+Bu projeye katkıda bulunmak isterseniz:
+
+Fork'layın 🍴
+
+Yeni özellik geliştirin 🔧
+
+Pull request gönderin ✅
+
+⚠️ Not
+Bu proje yalnızca teknik değerlendirme amacıyla hazırlanmıştır. Gerçek bir ürün değildir. Kodun bazı bölümleri güvenlik ve gizlilik nedeniyle paylaşılmamıştır.
