@@ -51,7 +51,7 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 
 > `screenshots/` klasörüne ekran görüntülerinizi ekleyip, aşağıya şu formatla yazabilirsiniz:
 
-
+`screenshots/`
 
 yaml
 Kopyala
