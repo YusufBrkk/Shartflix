@@ -55,39 +55,35 @@ Shartflix, modern Flutter teknolojileriyle geliştirilmiş, kullanıcıların fi
 ### Kayıt Ol Sayfası
 ![Kayıt Ol Sayfası](Screenshots/sign-up.png)
 
-### Admin Giriş Paneli
-![Admin Giriş Paneli](Screenshots/admin-log-in.png)![Admin Giriş Paneli](Screenshots/admin-log-in1.png)![Admin Giriş Paneli](Screenshots/admin-log-in2.png)
+### Ana Sayfa(Türkçe)
+![Ana Sayfa](screenshots/anasayfatr.png)
 
-### Müşteri Ana Sayfası
-![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS1.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS2.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS3.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS4.png)
+### Film Detayı Sayfası(Türkçe)
+![Film Detayı Sayfası](screenshots/filmdetaytr.png)
 
-### Randevularım Sayfası
-![Kayıt Ol Sayfası](Screenshots/MYAPPTS.png)![Kayıt Ol Sayfası](Screenshots/MYAPPTS1.png)
+### Profil Sayfası(Türkçe)
+![Profil Sayfası](screenshots/profiltr.png)
 
-### Randevu Oluştur Sayfası
-![Admin Giriş Paneli](Screenshots/MAKEAPPT.png)
+### Profil Foto Ekle Sayfası(Türkçe)
+![Giriş Sayfası](screenshots/fotoekletr.png)
 
-### Çalışma Saatleri ve Tatil Sayfası
-![Giriş Sayfası](Screenshots/WORKTIMES.png)
+### Teklifler Sayfası(Türkçe)
+![Teklifler Sayfası](screenshots/tekliftr.png)
 
-### Geçmiş Randevularım Sayfası
-![Kayıt Ol Sayfası](Screenshots/PASTAPPTS.png)
+### Ana Sayfa(İngilizce)
+![Ana Sayfa](screenshots/anasayfaeng.png)
 
-### Profilimi Güncelle Sayfası
-![Profilimi Güncelle Sayfası](Screenshots/Profile-update.png)
+### Film Detayı Sayfası(İngilizce)
+![Film Detayı Sayfası](screenshots/filmdetayeng.png)
 
-### Admin Ana Sayfası
-![Admin Ana Sayfası](Screenshots/admin.png)![Admin Ana Sayfası](Screenshots/admin1.png)![Admin Ana Sayfası](Screenshots/admin2.png)![Admin Ana Sayfası](Screenshots/admin3.png)![Admin Ana Sayfası](Screenshots/admin4.png)![Admin Ana Sayfası](Screenshots/admin5.png)
+### Profil Sayfası(İngilizce)
+![Profil Sayfası](screenshots/profileng.png)
 
-### Admin Randevuları Yönet Sayfası
-![Admin Randevuları Yönet Sayfası](Screenshots/admin-appts.png)![Admin Randevuları Yönet Sayfası](Screenshots/admin-appts1.png)
+### Profil Foto Ekle Sayfası(İngilizce)
+![Giriş Sayfası](screenshots/fotoekleeng.png)
 
-### Admin Müşterileri Görüntüle Sayfası
-![Admin Müşterileri Görüntüle Sayfası](Screenshots/admin-users.png)
-
-### Admin Çalışma Saatleri ve Tatil Yönet Sayfası
-![Admin Çalışma Saatleri ve Tatil Yönet Sayfası](Screenshots/admin-worktimes.png)
-
+### Teklifler Sayfası(İngilizce)
+![Teklifler Sayfası](screenshots/teklifeng.png)
 
 ## ⚙️ Kurulum ve Çalıştırma
 
